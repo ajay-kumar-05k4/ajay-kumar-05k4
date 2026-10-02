@@ -1,7 +1,15 @@
 <!-- Banner -->
+```html
+<!-- Premium Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&animation=twinkling" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:172554,60:2563eb,100:7c3aed&height=230&section=header&text=AJAY%20KUMAR%20MEDABOINA&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20ML%20%7C%20BLOCKCHAIN&descSize=15&descAlignY=60&descColor=c9d9ff&animation=fadeIn"
+    width="100%"
+    alt="Ajay Kumar Medaboina banner"
+  />
 </p>
+```
+
 
 <!-- Typing animation -->
 <p align="center">
