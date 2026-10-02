@@ -1,5 +1,4 @@
 <!-- Banner -->
-```html
 <!-- Premium Animated Banner -->
 <p align="center">
   <img
@@ -8,7 +7,7 @@
     alt="Ajay Kumar Medaboina banner"
   />
 </p>
-```
+
 
 
 <!-- Typing animation -->
