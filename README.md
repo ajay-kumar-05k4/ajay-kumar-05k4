@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+%26+Generative+AI;Blockchain+Enthusiast;DSA+Problem+Solver" />
 </p>
 
-<h1 align="center">Hey there! I'm Ajay Kumar Medaboina 👋</h1>
+
 
 <p align="center">
   Full-stack apps, machine learning and the blockchain in between.<br/>
