@@ -106,15 +106,7 @@ PwC Advisory Launchpad • AWS Cloud Foundations • AWS Cloud Operations • Re
   <img src="https://streak-stats.demolab.com?user=ajay-kumar-05k4&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay-kumar-05k4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-</p>
-
----
 
 ## 🧩 LeetCode
 
