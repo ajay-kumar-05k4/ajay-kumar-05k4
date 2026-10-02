@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=AJAY%20KUMAR&fontSize=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&animation=twinkling" />
 </p>
 
 <!-- Typing animation -->
@@ -102,10 +102,10 @@ PwC Advisory Launchpad • AWS Cloud Foundations • AWS Cloud Operations • Re
 
 ---
 
-## 📈 Activity Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay-kumar-05k4&theme=tokyo-night" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay-kumar-05k4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </p>
 
 ---
@@ -129,6 +129,9 @@ PwC Advisory Launchpad • AWS Cloud Foundations • AWS Cloud Operations • Re
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1200&color=8957E5&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let's+build+something+great+together+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" />
+</p>
