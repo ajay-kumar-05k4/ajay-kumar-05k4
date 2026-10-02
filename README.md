@@ -1,13 +1,9 @@
 <!-- Banner -->
 
 <!-- Premium Profile Banner -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:7c3aed&height=220&section=header&text=AJAY%20KUMAR%20MEDABOINA&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Blockchain&descSize=16&descAlignY=62"
-    width="100%"
-    alt="Ajay Kumar Medaboina"
-  />
-</p>
+<h1 align="center">
+  <b>AJAY KUMAR MEDABOINA</b> 👋
+</h1>
 
 
 
